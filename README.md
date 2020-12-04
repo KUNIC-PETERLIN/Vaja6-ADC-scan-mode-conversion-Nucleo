@@ -10,3 +10,7 @@ Privzeta vrednost paramtera Number of Conversion je 26,125ms
 Izbirno polje Data Width spremenimo na Byte
 
 Kratica DMA pomeni direct memory access
+
+<pre><strong>Komentar:</strong>
+Program z pomočjo mikrokontrolerja Nucleo izpisuje podatke treh potenciometrov.
+</pre>
