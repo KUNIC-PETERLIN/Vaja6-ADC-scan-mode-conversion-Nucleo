@@ -12,5 +12,5 @@ Izbirno polje Data Width spremenimo na Byte
 Kratica DMA pomeni direct memory access
 
 <pre><strong>Komentar:</strong>
-Program z pomočjo mikrokontrolerja Nucleo izpisuje podatke treh potenciometrov.
+Program z pomočjo mikrokontrolerja Nucleo izpisuje podatke treh potenciometrov. (Posnetek pri vaji ni prisoten zaradi neznane napake, ki se ni pustila delovanje funkcije debug).
 </pre>
